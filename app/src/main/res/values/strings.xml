@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="go_to_1">Go to 1</string>
+    <string name="facebook_huy">Facebook: Huy</string>
+
+    <string name="go_to_3">Go to 3</string>
+    <string name="request_code">Request Code</string>
+    <string name="finish">Finish</string>
+    <string name="random_sk">Random đi sự kiện</string>
+    <string name="random">Random</string>
+    <string name="go_to_4">Go to 4</string>
+    <string name="destroy">destroy</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
